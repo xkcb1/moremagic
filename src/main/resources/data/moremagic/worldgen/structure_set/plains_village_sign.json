@@ -1,0 +1,12 @@
+{
+  "structures": [{
+      "structure": "moremagic:plains_village_sign",
+      "weight": 1
+    }],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 638362943,
+    "spacing": 10,
+    "separation": 5
+  }
+}

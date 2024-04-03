@@ -1,0 +1,22 @@
+{
+	"type":"crafting_shaped",
+	"pattern":[
+		" Q ",
+		" G ",
+		" J "
+	],
+	"key":{
+		"Q":{
+			"item":"minecraft:lapis_lazuli"
+		},
+		"G":{
+			"item":"minecraft:jungle_log"
+		},
+		"J":{
+			"item":"minecraft:shears"
+		}
+	},
+	"result": {
+		"item":"magic:no_core_jungle_wand"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.custom.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin",
+		"CustomVillageModifier"
+	],
+	"client": [
+		
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients":[
+		{
+			"item":"minecraft:gold_nugget"
+		},
+		{
+			"item":"magic:no_core_oak_wand"
+		}
+	],
+	"result": {
+		"item":"magic:gold_core_oak_wand"
+	}
+}

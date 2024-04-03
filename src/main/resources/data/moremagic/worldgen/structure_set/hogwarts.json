@@ -1,0 +1,22 @@
+{
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "frequency":1.0,
+    "locate_offset":{
+      "x":8,
+      "y":0,
+      "z":8
+    },
+    "count": 15,
+    "distance": 32,
+    "preferred_biomes": "#minecraft:is_taiga",
+    "salt": 0,
+    "spread": 3
+  },
+  "structures": [
+    {
+      "structure": "moremagic:hogwarts",
+      "weight": 1
+    }
+  ]
+}
